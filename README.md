@@ -1,6 +1,11 @@
 # awesome-relation-extraction
 关系抽取论文
 
+- RFBFN: A Relation-First Blank Filling Network for Joint Relational Triple Extraction<br>
+（将关系抽取视为填空问题）<br>
+ACL 2022<br>
+https://aclanthology.org/2022.acl-srw.2.pdf<br>
+https://github.com/lizhe2016/RFBFN<br>
 - Packed Levitated Marker for Entity and Relation Extraction<br>
 ACL 2022<br>
 https://arxiv.org/abs/2109.06067v4<br>
@@ -37,6 +42,10 @@ https://github.com/DianboWork/SPN4RE<br>
 ACL2020<br>
 https://arxiv.org/abs/1909.03227<br>
 https://github.com/weizhepei/CasRel<br>
+- Entity-Relation Extraction as Multi-turn Question Answering<br>
+（将关系抽取视为QA问题）<br>
+ACL 2019<br>
+https://aclanthology.org/P19-1129.pdf<br>
 - Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers<br>
 ACL 2019<br>
 https://aclanthology.org/P19-1132.pdf<br>
