@@ -38,7 +38,7 @@ ACL2020<br>
 https://arxiv.org/abs/1909.03227<br>
 https://github.com/weizhepei/CasRel<br>
 - Extracting Multiple-Relations in One-Pass with Pre-Trained Transformers<br>
-2019<br>
+ACL 2019<br>
 https://aclanthology.org/P19-1132.pdf<br>
 https://github.com/helloeve/mre-in-one-pass<br>
 - joint extractions of entities and relations based on a novel tagging scheme<br>
