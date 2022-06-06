@@ -1,5 +1,5 @@
 # awesome-relation-extraction
-关系抽取
+关系抽取论文
 
 - Packed Levitated Marker for Entity and Relation Extraction<br>
 ACL 2022<br>
