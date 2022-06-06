@@ -62,3 +62,7 @@ https://aclanthology.org/C14-1220.pdf<br>
 https://github.com/FrankWork/conv_relation<br>
 https://paperswithcode.com/sota/relation-extraction-on-semeval-2010-task-8<br>
 
+# 中文关系抽取工具
+- DeepKE：https://github.com/zjunlp/deepke
+- Jiagu：https://github.com/ownthink/Jiagu
+- DeepDive：http://www.openkg.cn/dataset/cn-deepdive
