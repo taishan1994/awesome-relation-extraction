@@ -18,6 +18,10 @@ https://github.com/ssnvxia/OneRel<br>
 NAACL 2021<br>
 https://arxiv.org/abs/2010.12812<br>
 https://github.com/princeton-nlp/PURE<br>
+- A Partition Filter Network for Joint Entity and Relation Extraction<br>
+EMNLP 2021 <br>
+https://github.com/Coopercoppers/PFN<br>
+https://aclanthology.org/2021.emnlp-main.17.pdf<br>
 - PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction<br>
 ACL 2021<br>
 https://arxiv.org/abs/2106.09895<br>
