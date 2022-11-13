@@ -1,6 +1,14 @@
 # awesome-relation-extraction
 关系抽取论文
 
+- RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction<br>
+https://doi.org/10.48550/arXiv.2203.09101<br>
+https://github.com/declare-lab/RelationPrompt<br>
+ACL 2022
+- Generative Prompt Tuning for Relation Classification<br>
+https://arxiv.org/pdf/2210.12435v1.pdf<br>
+https://github.com/hanjiale/GenPT<br>
+EMNLP 2022<br>
 - RFBFN: A Relation-First Blank Filling Network for Joint Relational Triple Extraction<br>
 （将关系抽取视为填空问题）<br>
 ACL 2022<br>
