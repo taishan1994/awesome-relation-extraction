@@ -34,6 +34,10 @@ https://aclanthology.org/2021.emnlp-main.17.pdf<br>
 ACL 2021<br>
 https://arxiv.org/abs/2106.09895<br>
 https://github.com/hy-struggle/PRGC<br>
+- Span-based Joint Entity and Relation Extraction with Transformer Pre-training<br>
+https://arxiv.org/pdf/1909.07755.pdf<br>
+https://github.com/lavis-nlp/spert<br>
+ECAI 2020
 - TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking<br>
 COLING 2020<br>
 https://arxiv.org/abs/2010.13415<br>
