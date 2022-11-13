@@ -66,6 +66,10 @@ https://aclanthology.org/P19-1129.pdf<br>
 ACL 2019<br>
 https://aclanthology.org/P19-1132.pdf<br>
 https://github.com/helloeve/mre-in-one-pass<br>
+- Entity, Relation, and Event Extraction with Contextualized Span Representations<br>
+https://arxiv.org/pdf/1909.03546.pdf<br>
+https://github.com/dwadden/dygiepp<br>
+EMNLP 2019
 - joint extractions of entities and relations based on a novel tagging scheme<br>
 ACL2017<br>
 https://aclanthology.org/P17-1113.pdf<br>
