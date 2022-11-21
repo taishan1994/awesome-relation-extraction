@@ -1,6 +1,13 @@
 # awesome-relation-extraction
 关系抽取论文
 
+- Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks<br>
+SPNLP@ACL 2022<br>
+https://aclanthology.org/2022.spnlp-1.2.pdf<br>
+  - Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations<br>
+  Journal of Natural Language Processing 2022<br>
+  https://arxiv.org/pdf/2010.07522.pdf<br>
+  https://github.com/YoumiMa/TablERT
 - RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction<br>
 https://doi.org/10.48550/arXiv.2203.09101<br>
 https://github.com/declare-lab/RelationPrompt<br>
