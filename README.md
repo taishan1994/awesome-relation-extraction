@@ -41,10 +41,18 @@ https://aclanthology.org/2021.emnlp-main.17.pdf<br>
 ACL 2021<br>
 https://arxiv.org/abs/2106.09895<br>
 https://github.com/hy-struggle/PRGC<br>
+- TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations<br>
+EMNLP 2021<br>
+https://aclanthology.org/2021.emnlp-main.635.pdf<br>
+https://github.com/4AI/TDEER<br>
 - Span-based Joint Entity and Relation Extraction with Transformer Pre-training<br>
+ECAI 2020<br>
 https://arxiv.org/pdf/1909.07755.pdf<br>
 https://github.com/lavis-nlp/spert<br>
-ECAI 2020
+- A Partition Filter Network for Joint Entity and Relation Extraction<br>
+EMNLP 2021<br>
+https://arxiv.org/abs/2108.12202<br>
+https://github.com/Coopercoppers/PFN<br>
 - TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking<br>
 COLING 2020<br>
 https://arxiv.org/abs/2010.13415<br>
