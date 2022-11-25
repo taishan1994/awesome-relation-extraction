@@ -1,6 +1,13 @@
 # awesome-relation-extraction
 关系抽取论文
-
+- Query-based Instance Discrimination Network for Relational Triple Extraction<br>
+EMNLP 2022<br>
+对比PRGC<br>
+https://arxiv.org/pdf/2211.01797.pdf
+- UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction<br>
+对比OneRel<br>
+EMNLP 2022<br>
+https://github.com/wtangdev/UniRel
 - Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks<br>
 SPNLP@ACL 2022<br>
 https://aclanthology.org/2022.spnlp-1.2.pdf<br>
