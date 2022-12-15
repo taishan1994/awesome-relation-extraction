@@ -1,5 +1,9 @@
 # awesome-relation-extraction
 关系抽取论文
+- FastRE: Towards Fast Relation Extraction with Convolutional Encoder andImproved Cascade Binary Tagging Framework<br>
+IJCAI 2022<br>
+https://arxiv.org/pdf/2205.02490.pdf<br>
+https://github.com/seukgcode/FastRE
 - Query-based Instance Discrimination Network for Relational Triple Extraction<br>
 EMNLP 2022<br>
 https://arxiv.org/pdf/2211.01797.pdf
