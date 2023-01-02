@@ -1,5 +1,12 @@
 # awesome-relation-extraction
 关系抽取论文
+- Sequence Generation with Label Augmentation for Relation Extraction<br>
+AAAI2023<br>
+https://arxiv.org/pdf/2202.07959v3.pdf<br>
+https://github.com/pkuserc/RELA<br>
+- Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction<br>
+AAAI 2023<br>
+https://arxiv.org/pdf/2212.14270v1.pdf<br>
 - FastRE: Towards Fast Relation Extraction with Convolutional Encoder andImproved Cascade Binary Tagging Framework<br>
 IJCAI 2022<br>
 https://arxiv.org/pdf/2205.02490.pdf<br>
