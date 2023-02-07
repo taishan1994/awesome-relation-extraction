@@ -53,6 +53,9 @@ https://github.com/princeton-nlp/PURE<br>
 ACL 2021<br>
 https://arxiv.org/abs/2106.09895<br>
 https://github.com/hy-struggle/PRGC<br>
+- REBEL: Relation Extraction By End-to-end Language generation<br>
+EMNLP 2021<br>
+https://github.com/Babelscape/rebel<br>
 - TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations<br>
 EMNLP 2021<br>
 https://aclanthology.org/2021.emnlp-main.635.pdf<br>
