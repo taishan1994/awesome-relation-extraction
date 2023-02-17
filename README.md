@@ -1,5 +1,8 @@
 # awesome-relation-extraction
 关系抽取论文
+- LabelPrompt: Effective Prompt-based Learning for Relation Classification<br>
+2023<br>
+https://arxiv.org/abs/2302.08068v1<br>
 - Sequence Generation with Label Augmentation for Relation Extraction<br>
 AAAI2023<br>
 https://arxiv.org/pdf/2202.07959v3.pdf<br>
