@@ -10,6 +10,14 @@ https://github.com/pkuserc/RELA<br>
 - Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction<br>
 AAAI 2023<br>
 https://arxiv.org/pdf/2212.14270v1.pdf<br>
+- Unifified Structure Generation for Universal Information Extraction<br>
+ACL 2022<br>
+https://aclanthology.org/2022.acl-long.395.pdf<br>
+https://universal-ie.github.io/<br>
+- LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model<br>
+NIPS 2022<br>
+https://openreview.net/pdf?id=a8qX5RG36jd<br>
+https://github.com/ChocoWu/LasUIE<br>
 - A Simple but Effective Bidirectional Framework for Relational Triple Extraction<br>
 WSDM 2022<br>
 https://arxiv.org/pdf/2112.04940.pdf<br>
@@ -75,6 +83,17 @@ https://github.com/lavis-nlp/spert<br>
 EMNLP 2021<br>
 https://arxiv.org/abs/2108.12202<br>
 https://github.com/Coopercoppers/PFN<br>
+- A Novel Global Feature-Oriented Relational Triple Extraction Model based on Table Filling<br>
+EMNLP 2021<br>
+https://arxiv.org/pdf/2109.06705.pdf<br>
+https://github.com/neukg/GRTE<br>
+- UNIRE: A Unifified Label Space for Entity Relation Extraction<br>
+ACL 2021<br>
+https://aclanthology.org/2021.acl-long.19.pdf<br>
+https://github.com/Receiling/UniRE<br>
+- Contrastive Triple Extraction with Generative Transformer<br>
+AAAI 2021<br>
+https://arxiv.org/pdf/2009.06207.pdf<br>
 - TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking<br>
 COLING 2020<br>
 https://arxiv.org/abs/2010.13415<br>
@@ -95,6 +114,17 @@ https://github.com/DianboWork/SPN4RE<br>
 ACL2020<br>
 https://arxiv.org/abs/1909.03227<br>
 https://github.com/weizhepei/CasRel<br>
+- Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction<br>
+AAAI 2020<br>
+https://arxiv.org/pdf/1911.09886.pdf<br>
+https://github.com/nusnlp/PtrNetDecoding4JERE<br>
+- CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning<br>
+AAAI 2020<br>
+https://ojs.aaai.org/index.php/AAAI/article/view/6495/6351<br>
+https://github.com/WindChimeRan/CopyMTL<br>
+- Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning<br>
+ACL 2019<br>
+https://aclanthology.org/D19-1035.pdf<br>
 - Span-Level Model for Relation Extraction<br>
 ACL 2019<br>
 https://aclanthology.org/P19-1525.pdf<br>
@@ -107,9 +137,12 @@ ACL 2019<br>
 https://aclanthology.org/P19-1132.pdf<br>
 https://github.com/helloeve/mre-in-one-pass<br>
 - Entity, Relation, and Event Extraction with Contextualized Span Representations<br>
+EMNLP 2019<br>
 https://arxiv.org/pdf/1909.03546.pdf<br>
 https://github.com/dwadden/dygiepp<br>
-EMNLP 2019
+- Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism<br>
+ACL 2018<br>
+https://aclanthology.org/P18-1047.pdf<br>
 - joint extractions of entities and relations based on a novel tagging scheme<br>
 ACL2017<br>
 https://aclanthology.org/P17-1113.pdf<br>
