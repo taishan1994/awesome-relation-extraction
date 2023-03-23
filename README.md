@@ -95,6 +95,9 @@ https://github.com/DianboWork/SPN4RE<br>
 ACL2020<br>
 https://arxiv.org/abs/1909.03227<br>
 https://github.com/weizhepei/CasRel<br>
+- Span-Level Model for Relation Extraction<br>
+ACL 2019<br>
+https://aclanthology.org/P19-1525.pdf<br>
 - Entity-Relation Extraction as Multi-turn Question Answering<br>
 （将关系抽取视为QA问题）<br>
 ACL 2019<br>
