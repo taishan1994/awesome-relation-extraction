@@ -10,6 +10,10 @@ https://github.com/pkuserc/RELA<br>
 - Reviewing Labels: Label Graph Network with Top-k Prediction Set for Relation Extraction<br>
 AAAI 2023<br>
 https://arxiv.org/pdf/2212.14270v1.pdf<br>
+- A Simple but Effective Bidirectional Framework for Relational Triple Extraction<br>
+WSDM 2022<br>
+https://arxiv.org/pdf/2112.04940.pdf<br>
+https://github.com/neukg/BiRTE<br>
 - FastRE: Towards Fast Relation Extraction with Convolutional Encoder andImproved Cascade Binary Tagging Framework<br>
 IJCAI 2022<br>
 https://arxiv.org/pdf/2205.02490.pdf<br>
