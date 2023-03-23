@@ -75,6 +75,10 @@ https://github.com/Babelscape/rebel<br>
 EMNLP 2021<br>
 https://aclanthology.org/2021.emnlp-main.635.pdf<br>
 https://github.com/4AI/TDEER<br>
+- Minimize Exposure Bias of Seq2Seq Models in Joint Entity and Relation Extraction<br>
+EMNLP 2020<br>
+https://arxiv.org/pdf/2009.07503.pdf<br>
+https://github.com/WindChimeRan/OpenJERE<br>
 - Span-based Joint Entity and Relation Extraction with Transformer Pre-training<br>
 ECAI 2020<br>
 https://arxiv.org/pdf/1909.07755.pdf<br>
