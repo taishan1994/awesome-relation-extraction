@@ -14,6 +14,9 @@ https://arxiv.org/pdf/2212.14270v1.pdf<br>
 ACL 2022<br>
 https://aclanthology.org/2022.acl-long.395.pdf<br>
 https://universal-ie.github.io/<br>
+- Relational Triple Extraction: One Step is Enough<br>
+IJCAI 2022<br>
+https://arxiv.org/pdf/2205.05270.pdf<br>
 - LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model<br>
 NIPS 2022<br>
 https://openreview.net/pdf?id=a8qX5RG36jd<br>
