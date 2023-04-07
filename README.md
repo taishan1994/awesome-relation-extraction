@@ -1,5 +1,9 @@
 # awesome-relation-extraction
 关系抽取论文
+- PromptORE - A Novel Approach Towards Fully Unsupervised Relation Extraction<br>
+2023<br>
+https://arxiv.org/pdf/2304.01209.pdf<br>
+https://github.com/alteca/PromptORE<br>
 - LabelPrompt: Effective Prompt-based Learning for Relation Classification<br>
 2023<br>
 https://arxiv.org/abs/2302.08068v1<br>
