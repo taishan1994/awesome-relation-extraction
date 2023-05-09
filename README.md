@@ -1,5 +1,8 @@
 # awesome-relation-extraction
 关系抽取论文
+- HIORE: Leveraging High-order Interactions for Unified Entity Relation Extraction<br>
+2023<br>
+https://arxiv.org/pdf/2305.04297v1.pdf<br>
 - GPT-RE: In-context Learning for Relation Extraction using Large Language Models<br>
 2023<br>
 https://arxiv.org/pdf/2305.02105v1.pdf<br>
