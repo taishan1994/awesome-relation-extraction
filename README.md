@@ -1,5 +1,8 @@
 # awesome-relation-extraction
 关系抽取论文
+- GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks<br>
+  ACL 2023<br>
+  https://arxiv.org/abs/2305.16663v2<br>
 - MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset<br>
 多语言关系抽取数据集<br>
 2023<br>
