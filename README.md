@@ -1,5 +1,9 @@
 # awesome-relation-extraction
 关系抽取论文
+- Adaptive Ordered Information Extraction with Deep Reinforcement Learning<br>
+  ACL 2023<br>
+  https://arxiv.org/pdf/2306.10787v1.pdf<br>
+  https://github.com/EZ-hwh/AutoExtraction<br>
 - GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks<br>
   ACL 2023<br>
   https://arxiv.org/abs/2305.16663v2<br>
